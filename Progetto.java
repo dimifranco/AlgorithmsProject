@@ -303,4 +303,3 @@ public class Progetto {
         }
         return n - r[n - 1];  //r[n-1]=bordo max
     }
-}
